@@ -1,0 +1,11 @@
+{
+  "id": "margyt.timelimit",
+  "name": "TikTok Time Limit",
+  "name_ru": "Лимит времени TikTok",
+  "version": "1.1",
+  "author": "X1chi/Eansezz",
+  "description": "Blocks TikTok after a daily time limit. Reminder toast, emergency unlocks with a wait, themes, 7-day history.",
+  "description_ru": "Блокирует TikTok после дневного лимита.",
+  "entry": "cat.x1chi.timelimit.TimeLimit",
+  "min_api": 4
+}
