@@ -75,8 +75,6 @@ The implementation stores settings, usage counters, emergency unlock state, and 
 
 The plugin is written in Java and uses Android SDK components for its interface, dialogs, activity lifecycle tracking, and persistent settings.
 
-To build or modify the project, use a development environment compatible with the MargyPlugin API version required by your host application. The complete project and its dependencies are needed to determine the exact build configuration.
-
 ## License
 
 No license has been specified yet. If you want others to fork, modify, and redistribute the project, add a `LICENSE` file describing the permissions and conditions you choose.
